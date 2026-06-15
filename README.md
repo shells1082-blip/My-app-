@@ -1,7 +1,7 @@
 # 🌍 Country Language Finder
 
 A simple Streamlit web application that displays the widely spoken language(s) of a selected country.
-- I made this app using Python 3
+- I made this app using Python 3 &
 Streamlit
 ## Features
 
